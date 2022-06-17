@@ -1,4 +1,5 @@
 # Java-MySql-LibraryApp
+# Do not forget to add "java-mysql-connector"
 
 
 ![Ekran Görüntüsü (68)](https://user-images.githubusercontent.com/96957200/174265612-27219db7-cc1a-4aec-988a-6efffab3c36e.png)
