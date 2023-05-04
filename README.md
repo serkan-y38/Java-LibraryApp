@@ -1,7 +1,7 @@
 # Java-MySql-LibraryApp
-# Java - Swing
-# MySql database
-# Do not forget to add "java-mysql-connector"
+###### Java - Swing
+###### MySql database
+###### Do not forget to add "java-mysql-connector"
 
 
 
